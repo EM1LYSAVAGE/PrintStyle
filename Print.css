@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#bodywrapper, #main {
+	width: auto;
+	margin: 0;
+	padding: 0;
+}
+img, nav, #mid_img_wrap, .col-7 {
+	display: none;
+}
+.col-3 {
+	color: #000000 !important;
+}
+#copyright {
+	border-top: 1pt solid #000;
+}
